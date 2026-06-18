@@ -1,0 +1,6 @@
+{
+  "name": "ZenView",
+  "description": "A minimal, user-friendly document reader without the bloat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
